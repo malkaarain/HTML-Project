@@ -1,0 +1,183 @@
+.top{
+    display: flex;
+    justify-content: space-evenly;
+}
+#div1{
+    font: 1em sans-serif;
+    font-weight: 900;
+    padding-top: 100px;
+    font-size: larger;
+}
+
+#div3{
+    font: 1em sans-serif;
+    font-weight: 900;
+    padding-top: 100px;
+    font-size: larger;
+}
+#one{
+    font: 1em sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+}
+button{
+    font: 1em sans-serif;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: medium;
+}
+
+.one{
+    display: flex;
+    justify-content: space-around;
+}
+image{
+    border-radius: 10px;
+}
+.main{
+    display: flex;
+    margin-top: 170px
+}
+.tr{
+    position: absolute;
+    top: 840px;
+    left: 150px;
+}
+.tr1{
+    position: absolute;
+    left: 140px;
+    top: 1250px;
+}
+.tr2{
+    position: absolute;
+    left: 140px;
+    top: 1650px;
+}
+.tr3{
+    position: absolute;
+    left: 140px;
+    top: 2050px;
+}
+.tr4{
+    position: absolute;
+    left: 140px;
+    top: 2500px;
+}
+.tr5{
+    position: absolute;
+    left: 140px;
+    top: 2900px;
+}
+a{
+    color: green;
+    font-size: small;
+
+}
+
+.image{
+    border-radius: 5px;
+    margin-left: 50px;
+}
+.popular{
+    background-color: blanchedalmond;
+    font-size: x-large;
+    letter-spacing: 10px;
+
+}
+#three{
+    position: relative;
+    height: 1100px;
+    width: 330px;
+    border: 2px solid rgb(212, 56, 50);
+    border-radius: 10px;
+    margin-left: 50px;
+    font-size: x-large;
+}
+h1{
+    margin-left: 50px;
+    background-color: rgb(223, 214, 214);
+    margin-top: 0px;
+    text-align: center;
+}
+p{
+    font-weight: 100;
+    font-size: smaller;
+}
+.div1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.div2{
+    display: flex;
+    
+}
+.RECOMMENDED{
+    position: relative;
+    height: 1200px;
+    width: 700px;
+    border: 2px solid rgb(12, 9, 9);
+    border-radius: 10px;
+    margin-left: 50px;
+    font-size: x-large
+}
+.but{
+    margin-left: 50px;
+}
+#nine{
+    margin-left: 45px;
+}
+#eight{
+    margin-left: 40px;
+}
+#para{
+    padding-left: 5px;
+    padding-top: 0px;
+}
+#para1{
+    padding-left: 5px;
+}
+#para2{
+    padding-left: 5px;
+}
+.box{
+    display: flex;
+    padding-top: 10px;
+    padding-left: 20px;
+   
+}
+.box1{
+    display: flex;
+    padding-top: 10px;
+    padding-left: 20px;
+    
+}
+.box2{
+    display: flex;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.box3{
+    display: flex;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.box3{
+    display: flex;
+    justify-content: space-around;
+    font: 1em sans-serif;
+    font-size: larger;
+}
+.box4{
+    display: flex;
+    justify-content: space-around;
+    font: 1em sans-serif;
+    font-size: larger;
+}
+.box5{
+    display: flex;
+    justify-content: space-around;
+    font: 1em sans-serif;
+    font-size: larger;
+}
